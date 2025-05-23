@@ -1,0 +1,24 @@
+{
+  "id": "parrilla",
+  "name": "Parrilla Asados y Sabor",
+  "twilio_number": "whatsapp:+19547545488",
+  "owner_number": "whatsapp:+1234567890",
+  "admin_passcode": "1234",
+  "menu": [
+    "Carne Asada",
+    "Chorizo",
+    "Arepa Rellena",
+    "Costillas BBQ"
+  ],
+  "hours": "10am–9pm",
+  "address": "Calle 123 #45-67, Medellín",
+  "pricing": "$15 - $60",
+  "customer_numbers": [],
+  "blocked_slots": [],
+  "services": [
+    "Reservas",
+    "Menú Digital",
+    "Pedidos por WhatsApp"
+  ],
+  "open_access": true
+}
