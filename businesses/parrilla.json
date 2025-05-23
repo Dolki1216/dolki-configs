@@ -1,0 +1,9 @@
+{
+  "business_name": "La Parrilla",
+  "twilio_number": "+19541234567",
+  "hours": {
+    "monday": "9am - 5pm",
+    "tuesday": "9am - 5pm",
+    "wednesday": "9am - 5pm"
+  }
+}
